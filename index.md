@@ -1,4 +1,4 @@
-## Jonathan Tso - Project 1
+# Jonathan Tso - Project 1
 
 ## Project: UIC SEO Grove
 
@@ -6,7 +6,11 @@ This project is an interpretation of what the UIC SEO Grove can be utilized for.
 
 ## How to use:
 
+The project is run on Unity3D with emphasis on VR. The project can be run inside the CAVE2, located at UIC, or on the VIVE. 
 
+-ev
+
+-weve
 
 You can use the [editor on GitHub](https://github.com/tsodapop/CS528-Project-1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
