@@ -1,8 +1,12 @@
-## Testest
+## Jonathan Tso - Project 1
 
-This is a test
+## Project: UIC SEO Grove
 
-This is also a test.
+This project is an interpretation of what the UIC SEO Grove can be utilized for. In this instance, the grove has been turned into a public space that promotes free play. The emphasis of the grove is a food-court style area, where people are able to order myriad food and drinks. Additionally, there is music and video games for entertainment. 
+
+## How to use:
+
+
 
 You can use the [editor on GitHub](https://github.com/tsodapop/CS528-Project-1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
