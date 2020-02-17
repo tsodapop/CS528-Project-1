@@ -1,10 +1,10 @@
-## Project: UIC SEO Grove
+# Project: UIC SEO Grove
 
 [Project available on Github](https://github.com/tsodapop/CS528-Project-1)
 
 This project is an interpretation of what the UIC SEO Grove can be utilized for. In this instance, the grove has been turned into a public space that promotes free play. The emphasis of the grove is a food-court style area, where people are able to order myriad food and drinks. Additionally, there is music and video games for entertainment. 
 
-### How to Install and Set Up
+## How to Install and Set Up
 
 The project is run on Unity with emphasis on VR. The project can be run inside the CAVE2, located at UIC, or on the VIVE. The files needed to run this project are available above. The folder containing all of the files is named "Chicago-UIC." Additionally, the version of Unity will need to be 2019.2.11f1. [Visit Unity's webpage to look for older versions](https://unity3d.com/get-unity/download/archive).
 
@@ -13,7 +13,7 @@ The project is run on Unity with emphasis on VR. The project can be run inside t
 - VIVE: To run on the VIVE, make sure that your VIVE is properly connected and set up. Open the project in Unity. Under Omicron in the top bar, click "Configure for Vive." After it is done updating, you can click the Play button and it should now be visible inside the VIVE. 
 ![Configure for vive](https://github.com/tsodapop/CS528-Project-1/blob/master/Conf_for_vive.png)
 
-### How to Use
+## How to Use
 
 Inside Unity, execute the .exe file if you are running in the CAVE2, or click Play if you are running in the VIVE. The following is a list of things that you are able to do:
 - Open the menu to interact differently with the scene. 
@@ -33,7 +33,7 @@ Inside Unity, execute the .exe file if you are running in the CAVE2, or click Pl
   - As you walk around, certain other NPCs will walk through the grove.
   - The default soundtrack at Default location will change as you change from day to night.
 
-### Models and Data
+## Models and Data
 
 ### The following items were generated through Blender:
 ![Ice Cubes, Drinks, Cooler](https://github.com/tsodapop/CS528-Project-1/blob/master/cooler_drinks_ice_cubes.png)
@@ -143,3 +143,7 @@ Items:
 - [Action RPG Game Sounds](https://assetstore.unity.com/packages/audio/music/action-rpg-music-free-85434)
   - Uses:
     - Placed as ambient sounds
+
+## Contrast Between CAVE2, VIVE, and Reality
+
+Testest
