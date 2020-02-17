@@ -4,12 +4,12 @@ This project is an interpretation of what the UIC SEO Grove can be utilized for.
 
 ## How to use:
 
-The project is run on Unity3D with emphasis on VR. The project can be run inside the CAVE2, located at UIC, or on the VIVE. 
+The project is run on Unity with emphasis on VR. The project can be run inside the CAVE2, located at UIC, or on the VIVE. The files under this repository will need to first be downloaded. The folder containing all of the files is named "Chicago-UIC." Additionally, the version of Unity will need to be 2019.2.11f1. [Visit Unity's webpage to look for older versions](https://unity3d.com/get-unity/download/archive).
 
-- To run on the CAVE2, the files under this repository will need to first be downloaded. The folder containing all of the files is named "Chicago-UIC." In order for everything to work properly, all of the files will need to be downloaded so that prefabs, assets, and scripts are properly included. Afterwards, follow the directions provided by the wiki page on [uic-evl's github page on how to run in CAVE2](https://github.com/uic-evl/omicron-unity/wiki/Guide-for-running-Unity-in-CAVE2#building-on-cave2). 
+- CAVE2: To run on the CAVE2, follow the directions provided by the wiki page on [uic-evl's github page on how to run in CAVE2](https://github.com/uic-evl/omicron-unity/wiki/Guide-for-running-Unity-in-CAVE2#building-on-cave2). 
 
-
--weve
+- VIVE: To run on the VIVE, make sure that your VIVE is properly connected and set up. Open the project in Unity. Under Omicron in the top bar, click "Configure for Vive." After it is done updating, you can click the Play button and it should now be visible inside the VIVE. 
+___________________________________________________________
 
 You can use the [editor on GitHub](https://github.com/tsodapop/CS528-Project-1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
