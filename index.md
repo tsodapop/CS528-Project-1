@@ -36,42 +36,50 @@ Inside Unity, execute the .exe file if you are running in the CAVE2, or click Pl
 
 ### The following items were generated through Blender:
 ![Ice Cubes, Drinks, Cooler](https://github.com/tsodapop/CS528-Project-1/blob/master/cooler_drinks_ice_cubes.png)
-- Items:
-  - Cooler
-  - Drinks (Differing colors in scene)
-  - Ice Cubes
-  
+```
+Items:
+  Cooler
+  Drinks (Differing colors in scene)
+  Ice Cubes
+```
 ![Backpack](https://github.com/tsodapop/CS528-Project-1/blob/master/backpack.png)
-- Items:
-  - Backpack
-  
+```
+Items:
+  Backpack
+```  
 ![Controller](https://github.com/tsodapop/CS528-Project-1/blob/master/controller.png)
-- Items:
-  - Controller (Differing colors in scene)
-  
+```
+Items:
+  Controller (Differing colors in scene)
+```
 ![CRT](https://github.com/tsodapop/CS528-Project-1/blob/master/crt.png)
-- Items:
-  - CRT
-  - Image of Super Smash Brothers Melee (Image taken from source below and adapted into a solid plane)
-  
+```
+Items:
+  CRT
+  Image of Super Smash Brothers Melee (Image taken from source below and adapted into a solid plane)
+```  
 ![Lamp](https://github.com/tsodapop/CS528-Project-1/blob/master/lamp.png)
-- Items:
-  - Lamp  
-  
+```
+Items:
+  Lamp  
+```
 ![Main Lamp](https://github.com/tsodapop/CS528-Project-1/blob/master/main_lamp.png)
-- Items:
-  - Main Lamp
-  
+```
+Items:
+  Main Lamp
+```
 ![Money](https://github.com/tsodapop/CS528-Project-1/blob/master/money%20indicator.png)
-- Items:
-  - Money indicator
-  - Money
-  
+```
+Items:
+  Money indicator
+  Money
+```
 ![Stall](https://github.com/tsodapop/CS528-Project-1/blob/master/stall.png)
--Items:
-  - Stall
-  - Cash Register
-
+```
+Items:
+  Stall
+  Cash Register
+```
 ### The following items were obtained online:
 - [UIC Grove](http://www.evl.uic.edu/aej/528/Chicago-UIC.zip)
   - Uses:
