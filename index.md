@@ -85,6 +85,7 @@ Items:
 - [UIC Grove](http://www.evl.uic.edu/aej/528/Chicago-UIC.zip)
   - Uses:
     - The given base code was provided for interaction with Unity and the CAVE2. 
+    - Additionally, scripts for clicking and hovering for sounds and effects were adapted from the given base code example files for Cube World Example.
 - [Chicken Piece](https://assetstore.unity.com/packages/3d/props/food/chicken-piece-free-160801) 
   - Uses: 
     - The Chicken Piece was used at the benches to show food consumption. 
@@ -116,6 +117,7 @@ Items:
     - The NPC Animate near the stalls to create a line for purchasing food. Sound was added. 
     - The NPC Animate was placed throughout the grove to promote multiple people walking around. These NPCs will move whenever the player moves. 
     - The NPC Animate was placed in front of the cooler with a pickup effect. 
+    - Additional animations for NPC Animate were adapted from the original Simple Movement and utilizes the provided animations.
 - [Smash Melee Image](https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee#/media/File:SpecialMelee.jpg)
   - Uses:
     - The Smash Melee Image was appended to the CRT as a plane in Blender to show that is the game that is being played.
