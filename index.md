@@ -1,5 +1,7 @@
 ## Project: UIC SEO Grove
 
+[Project available on Github](https://github.com/tsodapop/CS528-Project-1)
+
 This project is an interpretation of what the UIC SEO Grove can be utilized for. In this instance, the grove has been turned into a public space that promotes free play. The emphasis of the grove is a food-court style area, where people are able to order myriad food and drinks. Additionally, there is music and video games for entertainment. 
 
 ## How to use:
@@ -10,11 +12,9 @@ The project is run on Unity with emphasis on VR. The project can be run inside t
 
 - VIVE: To run on the VIVE, make sure that your VIVE is properly connected and set up. Open the project in Unity. Under Omicron in the top bar, click "Configure for Vive." After it is done updating, you can click the Play button and it should now be visible inside the VIVE. 
 ![Configure for vive](https://github.com/tsodapop/CS528-Project-1/blob/master/Conf_for_vive.png)
-___________________________________________________________
+______________________________________________________________________________________________________________________
 
-You can use the [editor on GitHub](https://github.com/tsodapop/CS528-Project-1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
