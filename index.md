@@ -4,10 +4,18 @@
 
 This project is an interpretation of what the UIC SEO Grove can be utilized for. In this instance, the grove has been turned into a public space that promotes free play. The emphasis of the grove is a food-court style area, where people are able to order myriad food and drinks. Additionally, there is music and video games for entertainment. 
 
+### How to Install and Set Up
+
+The project is run on Unity with emphasis on VR. The project can be run inside the CAVE2, located at UIC, or on the VIVE. The files needed to run this project are available above. The folder containing all of the files is named "Chicago-UIC." Additionally, the version of Unity will need to be 2019.2.11f1. [Visit Unity's webpage to look for older versions](https://unity3d.com/get-unity/download/archive).
+
+- CAVE2: To run on the CAVE2, follow the directions provided by the wiki page on [uic-evl's github page on how to run in CAVE2](https://github.com/uic-evl/omicron-unity/wiki/Guide-for-running-Unity-in-CAVE2#building-on-cave2). 
+
+- VIVE: To run on the VIVE, make sure that your VIVE is properly connected and set up. Open the project in Unity. Under Omicron in the top bar, click "Configure for Vive." After it is done updating, you can click the Play button and it should now be visible inside the VIVE. 
+![Configure for vive](https://github.com/tsodapop/CS528-Project-1/blob/master/Conf_for_vive.png)
+
 ### How to Use
 
 Inside Unity, execute the .exe file if you are running in the CAVE2, or click Play if you are running in the VIVE. The following is a list of things that you are able to do:
-
 - Open the menu to interact differently with the scene. 
   - If you go into System > and click Walk, you can freely walk around the grove instead of flying around.
   - If you go into Time of Day > and click Night or Day, you can manipulate the scene to be bright or dark with different effects.
@@ -23,40 +31,41 @@ Inside Unity, execute the .exe file if you are running in the CAVE2, or click Pl
   - If you click on the game controllers near the main lamp, you can grab these objects.
   - If you click on the game image in front of the CRT near the main lamp, you will start playing music. This can be paused. 
   - As you walk around, certain other NPCs will walk through the grove.
-  
 
-### How to Install and Set Up
+### Models and Data
 
-The project is run on Unity with emphasis on VR. The project can be run inside the CAVE2, located at UIC, or on the VIVE. The files needed to run this project are available above. The folder containing all of the files is named "Chicago-UIC." Additionally, the version of Unity will need to be 2019.2.11f1. [Visit Unity's webpage to look for older versions](https://unity3d.com/get-unity/download/archive).
+The following items were generated through Blender:
 
-- CAVE2: To run on the CAVE2, follow the directions provided by the wiki page on [uic-evl's github page on how to run in CAVE2](https://github.com/uic-evl/omicron-unity/wiki/Guide-for-running-Unity-in-CAVE2#building-on-cave2). 
+The following items were obtained online:
+- [Chicken Piece](https://assetstore.unity.com/packages/3d/props/food/chicken-piece-free-160801) 
+  - Uses: 
+    - The Chicken Piece was used at the benches to show food consumption. 
+    - The Chicken Piece was used above a stall to promote that stall sells the product.
+- [Sushi](https://assetstore.unity.com/packages/3d/props/food/japanese-food-sushi-free-158209)
+  - Uses:
+    - The Sushi was used at the benches to show food consumption.
+    - The Sushi was used above a stall to promote that stall sells the product.
+    - The Sushi plate was used at the benches for plating purposes.    
+- [Coffee Shop](https://assetstore.unity.com/packages/3d/props/coffeeshop-starter-pack-160914)
+  - Uses:
+    - The Coffee Shop drink was used at the benches to show drink consumption.
+    - The Coffee Shop dessert was used at the benches to show food consumption.
+- [Pizza](https://assetstore.unity.com/packages/3d/props/food/pbr-pizza-108425)
+  - Uses:
+    - The Pizza was used at the benches to show food consumption.
+    - The Pizza was used above to a stall to promote that stall sells the product. 
+- [Jukebox](https://assetstore.unity.com/packages/3d/props/electronics/jukebox-music-player-152930)
+  - Uses:
+    - The Jukebox was placed near the main lamp to play music.
+- [NPC Still](https://assetstore.unity.com/packages/3d/characters/humanoids/npc-character-proto-series-132051)
+  - Uses:
+    - The NPC Still was placed at the benches to show communication and food consumption.
+    - The NPC Still was placed near the stalls to create a line for purchasing food.
+- [NPC Animate](https://assetstore.unity.com/packages/3d/characters/humanoids/character-pack-free-sample-79870)
+  - Uses: 
+    - The NPC Animate was placed in front of the Default camera position. This NPC is clickable for sound and jump effect.
+    - The NPC Animate was placed in front of each of the stalls with a wave effect. Hovering over each NPC elicits a sound that alters in the night scene.
 
-- VIVE: To run on the VIVE, make sure that your VIVE is properly connected and set up. Open the project in Unity. Under Omicron in the top bar, click "Configure for Vive." After it is done updating, you can click the Play button and it should now be visible inside the VIVE. 
-![Configure for vive](https://github.com/tsodapop/CS528-Project-1/blob/master/Conf_for_vive.png)
-______________________________________________________________________________________________________________________
 
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
