@@ -31,6 +31,7 @@ Inside Unity, execute the .exe file if you are running in the CAVE2, or click Pl
   - If you click on the game controllers near the main lamp, you can grab these objects.
   - If you click on the game image in front of the CRT near the main lamp, you will start playing music. This can be paused. 
   - As you walk around, certain other NPCs will walk through the grove.
+  - The default soundtrack at Default location will change as you change from day to night.
 
 ### Models and Data
 
@@ -118,7 +119,27 @@ Items:
 - [Smash Melee Image](https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee#/media/File:SpecialMelee.jpg)
   - Uses:
     - The Smash Melee Image was appended to the CRT as a plane in Blender to show that is the game that is being played.
- 
-
-
-
+- [Crowd Talking](https://www.youtube.com/watch?v=mLld3JVwxew)]
+  - Uses:
+    - Placed onto NPC to facilitate conversation at benches
+- [CS is a lot](https://www.youtube.com/watch?v=NlI360Y9wLA)
+  - Uses:
+    - Placed onto jukebox 
+- [Closing time](https://www.youtube.com/watch?v=zmtOY4Hz6Ks)
+  - Uses:
+    - Placed onto jukebox
+- [I'm hungry](https://www.youtube.com/watch?v=nHeTfagADnc)
+  - Uses:
+    - Placed onto NPC to facilitate conversation at stalls
+- [Kids talking about food](https://www.youtube.com/watch?v=_T0ZiqRdU8Y)
+  - Uses:
+    - Placed onto NPC to facilitate conversation at stalls
+- [Retro Game Sounds](https://assetstore.unity.com/packages/audio/sound-fx/sound-fx-retro-pack-121743)
+  - Uses:
+    - Added to NPCs where appropriate. Example: Coin sounds added when clicking on Cash Registers
+- [Kaching](https://www.youtube.com/watch?v=4kVTqUxJYBA)
+  - Uses:
+    - Placed onto money when grabbed
+- [Action RPG Game Sounds](https://assetstore.unity.com/packages/audio/music/action-rpg-music-free-85434)
+  - Uses:
+    - Placed as ambient sounds
