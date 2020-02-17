@@ -148,4 +148,20 @@ Items:
 
 ## Contrast Between CAVE2, VIVE, and Reality
 
-Testest
+### CAVE2: 
+The CAVE2 creates an immersive, full, surrounding environment without the need for use of any large headgear. This helps provide a good experience where you can use the controller to move around, move your head in different directions, and play around with your surroundings. For my project, the benefit to this is that as you move around with the controller, it is easy to constantly be seeing around you for a full view. 
+
+In comparison to being in the actual grove, one issue that I have come across is environmental influences, such as wind and physical contact with the ground. Addition of both of these would certainly give the CAVE2 a more realistic feel. Additionally, with the CAVE2, to move around the space, it is easier to use the controller to simply move in the desired direction. While you are given a full view, it lacks the temptation to walk closer or farther to an object to approach it, rather than see it. 
+
+I can see the CAVE2 being very useful for wanting to look at an object or scene from a "surround me" scenario, where the player or user wants to always be cognizant of all of their surroundings in a 360 field of view. This is partially denoted in previous papers inclusive of the original CAVE, where it was mentioned that they can have an inside-out perspective of objects. Where I see the CAVE2 struggling is when you want to interact by physical interaction.
+
+To improve my project towards the CAVE2, I would like to include more objects or interactions that give a surrounding experience. For example, if by clicking on an object in the full field of view, other objects begin to move around. With the CAVE2, I would clearly be able to see all of the objects move around me without having to tilt my head and lose vision of any other objects. 
+
+### VIVE:
+The VIVE creates a forward focusing view by use of a large headgear. The advantage of using the VIVE is that it helps remove external influences because it is heavily visually focused on what is immediately in front of you. Utilizing the controller to walk around is possible, but it is also possible to walk, turn and move my head to search and notice my surroundings. For my project, the benefit to this is that it makes you feel much more like you are actually walking through a grove since you can influence where you are in the project by physically moving.
+
+In comparison to being in the actual grove, one issue that I have come across is that the VIVE is heavily focused on only what is in front of you. Because of this, it does not give an immersive experience, since I can only observe what is in front of me and not what is necessarily around me. I will have to move or adjust my head in order to look at different things. While this is true in reality, we do have a much larger field of view than what is provided in the VIVE. 
+
+I can see the VIVE being a strong candidate for use of physically-interactive projects, such as gaming. In video games, there is a desire to be connected as the player to the surroundings, and most times the field of view is already narrow (think TV screen field of view). The ability to move the arms to interact with objects and also physically move across areas is highly beneficial to this. Where I see the VIVE struggling is situations where you need a larger field of view, or moments where you may require less movement space and so walking around is harder, reducing the experience. 
+
+To improve my project towards the CAVE2, I would like to focus more interactions directly in front of the player or user. For example, the animations of the other people walking around the grove is essentially lost when using the VIVE since I am unable to see the majority of them also walking around. A more linear set of interactions is then needed, such as when you click on the NPC Animated in front of the Default location, it elicits a jump directly in front of you.
