@@ -36,7 +36,7 @@ Inside Unity, execute the .exe file if you are running in the CAVE2, or click Pl
 ## Models and Data
 
 ### The following items were generated through Blender:
-![Ice Cubes, Drinks, Cooler](https://github.com/tsodapop/CS528-Project-1/blob/master/cooler_drinks_ice_cubes.png)
+![Ice Cubes, Drinks, Cooler](https://raw.githubusercontent.com/tsodapop/CS528-Project-1/master/cooler_drinks_ice_cubes.png)
 ```
 Items:
   Cooler
