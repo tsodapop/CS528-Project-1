@@ -35,8 +35,12 @@ Inside Unity, execute the .exe file if you are running in the CAVE2, or click Pl
 ### Models and Data
 
 The following items were generated through Blender:
+- 
 
 The following items were obtained online:
+- [UIC Grove](http://www.evl.uic.edu/aej/528/Chicago-UIC.zip)
+  - Uses:
+    - The given base code was provided for interaction with Unity and the CAVE2. 
 - [Chicken Piece](https://assetstore.unity.com/packages/3d/props/food/chicken-piece-free-160801) 
   - Uses: 
     - The Chicken Piece was used at the benches to show food consumption. 
@@ -59,13 +63,19 @@ The following items were obtained online:
     - The Jukebox was placed near the main lamp to play music.
 - [NPC Still](https://assetstore.unity.com/packages/3d/characters/humanoids/npc-character-proto-series-132051)
   - Uses:
-    - The NPC Still was placed at the benches to show communication and food consumption.
-    - The NPC Still was placed near the stalls to create a line for purchasing food.
+    - The NPC Still was placed at the benches to show communication and food consumption. Sound was added that alters in the night scene.
+    - The NPC Still was placed near the stalls to create a line for purchasing food. Sound was added.
 - [NPC Animate](https://assetstore.unity.com/packages/3d/characters/humanoids/character-pack-free-sample-79870)
   - Uses: 
     - The NPC Animate was placed in front of the Default camera position. This NPC is clickable for sound and jump effect.
     - The NPC Animate was placed in front of each of the stalls with a wave effect. Hovering over each NPC elicits a sound that alters in the night scene.
-
+    - The NPC Animate near the stalls to create a line for purchasing food. Sound was added. 
+    - The NPC Animate was placed throughout the grove to promote multiple people walking around. These NPCs will move whenever the player moves. 
+    - The NPC Animate was placed in front of the cooler with a pickup effect. 
+- [Smash Melee Image](https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee#/media/File:SpecialMelee.jpg)
+  - Uses:
+    - The Smash Melee Image was appended to the CRT as a plane in Blender to show that is the game that is being played.
+ 
 
 
 
