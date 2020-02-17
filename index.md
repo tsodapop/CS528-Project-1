@@ -1,5 +1,3 @@
-# Jonathan Tso - Project 1
-
 ## Project: UIC SEO Grove
 
 This project is an interpretation of what the UIC SEO Grove can be utilized for. In this instance, the grove has been turned into a public space that promotes free play. The emphasis of the grove is a food-court style area, where people are able to order myriad food and drinks. Additionally, there is music and video games for entertainment. 
@@ -8,7 +6,8 @@ This project is an interpretation of what the UIC SEO Grove can be utilized for.
 
 The project is run on Unity3D with emphasis on VR. The project can be run inside the CAVE2, located at UIC, or on the VIVE. 
 
--ev
+- To run on the CAVE2, the files under this repository will need to first be downloaded. The folder containing all of the files is named "Chicago-UIC." In order for everything to work properly, all of the files will need to be downloaded so that prefabs, assets, and scripts are properly included. Afterwards, follow the directions provided by the wiki page on [uic-evl's github page on how to run in CAVE2](https://github.com/uic-evl/omicron-unity/wiki/Guide-for-running-Unity-in-CAVE2#building-on-cave2). 
+
 
 -weve
 
