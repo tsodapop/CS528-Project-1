@@ -11,7 +11,7 @@ The project is run on Unity with emphasis on VR. The project can be run inside t
 - CAVE2: To run on the CAVE2, follow the directions provided by the wiki page on [uic-evl's github page on how to run in CAVE2](https://github.com/uic-evl/omicron-unity/wiki/Guide-for-running-Unity-in-CAVE2#building-on-cave2). 
 
 - VIVE: To run on the VIVE, make sure that your VIVE is properly connected and set up. Open the project in Unity. Under Omicron in the top bar, click "Configure for Vive." After it is done updating, you can click the Play button and it should now be visible inside the VIVE. 
-![Configure for vive](https://github.com/tsodapop/CS528-Project-1/blob/master/Conf_for_vive.png)
+![Configure for vive](https://github.com/tsodapop/CS528-Project-1/blob/master/Conf_for_vive.png?raw=true)
 
 ## How to Use
 
