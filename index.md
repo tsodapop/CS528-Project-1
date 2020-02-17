@@ -1,4 +1,5 @@
 [Project available on Github](https://github.com/tsodapop/CS528-Project-1)
+[Information below can be found on the Github wiki](https://github.com/tsodapop/CS528-Project-1/wiki)
 
 This project is an interpretation of what the UIC SEO Grove can be utilized for. In this instance, the grove has been turned into a public space that promotes free play. The emphasis of the grove is a food-court style area, where people are able to order myriad food and drinks. Additionally, there is music and video games for entertainment. 
 
